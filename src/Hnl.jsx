@@ -5,12 +5,12 @@ function Hnl (){
     return(<>
     <div className="HnlCon">
         <div id='Hnl'>
-          <img src="images/HNLimg2.png" alt="2d platform view of harvey exploring a temple" className="HnlImg"></img>
+          <img src="images/HNLSandFour.png" alt="2d platform view of harvey exploring a temple" className="HnlImg"></img>
         </div>
       <div className="HnlImgsContainer">
         <div className="HnlMultiImg">
           <img
-             src="images/HNLimg2.png"
+             src="images/HNLTemple.png"
             alt="harvey exploring a secition of the tomb"
             className="ContainerImg"
           />
@@ -18,7 +18,7 @@ function Hnl (){
 
         <div className="HnlMultiImg">
           <img
-            src="images/HNLimg1.png"
+            src="images/HNLGrassThree.png"
             alt="harvey exploring a secition of the tomb"
             className="ContainerImg"
           />
@@ -26,7 +26,7 @@ function Hnl (){
   
         <div className="HnlMultiImg">
           <img
-          src="images/HNLimg3.png"
+          src="images/HNLSandyTwo.png"
             alt="harvey exploring a secition of the tomb"
             className="ContainerImg"
           />
