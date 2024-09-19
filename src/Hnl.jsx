@@ -5,7 +5,7 @@ function Hnl (){
     return(<>
     <div className="HnlCon">
         <div id='Hnl'>
-          <img src="images/HarverysNineLivesCover.png" alt="2d platform view of harvey exploring a temple" className="HnlImg"></img>
+          <img src="images/HNLimg2.png" alt="2d platform view of harvey exploring a temple" className="HnlImg"></img>
         </div>
       <div className="HnlImgsContainer">
         <div className="HnlMultiImg">
