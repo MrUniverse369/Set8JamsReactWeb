@@ -36,6 +36,68 @@ padding: 10px;
   text-decoration: none;
 }
 
+/* General navbar styles */
+.navBarContainer {
+  background-color: #000000;
+  padding: 10px 20px;
+}
+
+.navbarNav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.navItem {
+  margin-right: 20px;
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+}
+
+.navLink:hover {
+  color: #580f59;
+}
+
+/* Hamburger menu styles */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.bar {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 4px 0;
+  transition: 0.4s;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .navbarNav {
+    display: none;
+    flex-direction: column;
+  }
+
+  .navMenu.active .navbarNav {
+    display: flex;
+  }
+
+  .hamburger {
+    display: flex;
+  }
+
+  .navItem {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+}
+
 
 .TnMainImg,.HnlImg,.GcImg{
   width: 100%;

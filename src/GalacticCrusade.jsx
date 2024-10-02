@@ -2,11 +2,6 @@ import './App.css'
 
 function GC (){return(<div id="GalacticCrusade" className="GcCon" >
 
-<div className="IframeCon">
- <iframe className="responsive-iframe" width="760" height="515" src="https://www.youtube.com/embed/R-9KaQuCV4w?si=XiKZov-O7NqvHJR3"
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-   </div>
  <div className="GcImgsContainer">
         <div className="GcMultiImg">
           <img
