@@ -32,11 +32,12 @@ function GC (){return(<div id="GalacticCrusade" className="GcCon" >
 <h1>GalacticCrusade</h1>
     <p>
           As humanity's first line of defense your Goal is to stop alien 
-          invaders from reaching<br></br> planet earth and conquering. GC is a classic
-          shoot 'em up where you use a <br></br>combination of power ups to get the
-          highest score as the enemy waves get<br></br> more aggressive and step into the
+          invaders from reaching planet earth and conquering. GC is a classic
+          shoot 'em up where you use a combination of power ups to get the
+          highest score as the enemy waves get more aggressive and step into the
           cockpit and see what levels you can reach.</p>
-          <a className="btn" href="https://thamgamedevs.itch.io/galactic-crusade">PLAY</a>
+          <br></br>
+          <a className="btn" href="https://thamgamedevs.itch.io/galactic-crusade" target="_blank">PLAY</a>
 </div>
 
 
