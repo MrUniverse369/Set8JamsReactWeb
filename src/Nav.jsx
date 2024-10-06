@@ -28,7 +28,7 @@ function Nav() {
               <a className="navLink" href="#Hnl">Home</a>
             </li>
             <li className="navItem">
-              <a className="navLink" href="#Hnl">Harveysninelives</a>
+              <a className="navLink" href="#Hnl">Harveys Nine Lives</a>
             </li>
             <li className="navItem">
               <a className="navLink" href="#TrueNature">True Nature</a>
